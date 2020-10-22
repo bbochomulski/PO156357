@@ -11,7 +11,7 @@ public class Zadania {
         ArrayList<Integer> lista1 = wprowadzDane(l1);
         ArrayList<Integer> lista2 = wprowadzDane(l2);
 
-        System.out.print("Lista 1: " + lista1 + "\nLista 2: \" + lista2 + \"\\n\\n");
+        System.out.print("Lista 1: " + lista1 + "\nLista 2: " + lista2 + "\n\n");
 
 
         ArrayList<Integer> wynik1 = append(lista1, lista2);
