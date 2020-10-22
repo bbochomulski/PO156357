@@ -42,8 +42,6 @@ public class Zadanie1 {
         ciag = s.next();
         System.out.printf("Wynik dzialania funkcji nice: %s\n", nice(ciag));
         System.out.printf("Wynik dzialania zmodyfikowanej funkcji nice: %s\n", nice(ciag, '"',5));
-
-
     }
 
     public static int[] tabappend(int[] tab, int n){
