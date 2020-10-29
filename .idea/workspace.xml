@@ -20,12 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12f2286d-23a8-4d92-9931-1dc998ea90a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab06/Lab06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06/src/pl/edu/uwm/PO/lab06/IntegerSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06/src/pl/edu/uwm/PO/lab06/RachunekBankowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06/src/pl/edu/uwm/PO/lab06/Test_IntegerSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06/src/pl/edu/uwm/PO/lab06/Test_RachunekBankowy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06/src/pl/edu/uwm/PO/lab06/TestPracownikVer0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/Lab07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Adres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/BetterRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Nauczyciel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestBetterRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestOsoby.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -60,9 +63,52 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Lab07/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.Test_IntegerSet">
+  <component name="RunManager" selected="Application.TestBetterRectangle">
+    <configuration name="TestBetterRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.imiajd.bochomulski.TestBetterRectangle" />
+      <module name="Lab07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.imiajd.bochomulski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOsoby" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pl.imiajd.bochomulski.TestOsoby" />
+      <module name="Lab07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.imiajd.bochomulski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPracownikVer0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.PO.lab06.TestPracownikVer0" />
+      <module name="Lab06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.uwm.PO.lab06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_IntegerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.PO.lab06.Test_IntegerSet" />
       <module name="Lab06" />
@@ -102,24 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.PO.lab04.Zadanie1" />
-      <module name="Lab04" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.edu.uwm.PO.lab04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestBetterRectangle" />
+        <item itemvalue="Application.TestOsoby" />
+        <item itemvalue="Application.TestPracownikVer0" />
         <item itemvalue="Application.Test_IntegerSet" />
         <item itemvalue="Application.Test_RachunekBankowy" />
-        <item itemvalue="Application.Zadanie1" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603359806537</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab06">
+      <created>1603379336498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603379336498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,18 +203,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Lab06" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="154" key="#Project_Structure" timestamp="1603985614553">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="154" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1603985614553" />
     <state x="414" y="235" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603359219359">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="414" y="235" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603359219359" />
-    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1603377918063">
+    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1603988584935">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1603377918063" />
+    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1603988584935" />
     <state x="689" y="382" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603359129434">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="689" y="382" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603359129434" />
+    <state x="736" y="316" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603981823677">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="736" y="316" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603981823677" />
     <state x="1007" y="422" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603376691188">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -181,37 +231,57 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="82" y="43" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603360023145" />
-    <state width="1681" height="187" key="GridCell.Tab.0.bottom" timestamp="1603379204959">
+    <state width="1117" height="186" key="GridCell.Tab.0.bottom" timestamp="1603990720649">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1681" height="187" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603379204959" />
-    <state width="1681" height="187" key="GridCell.Tab.0.center" timestamp="1603379204959">
+    <state width="1117" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720649" />
+    <state width="1117" height="186" key="GridCell.Tab.0.center" timestamp="1603990720649">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1681" height="187" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603379204959" />
-    <state width="1681" height="187" key="GridCell.Tab.0.left" timestamp="1603379204959">
+    <state width="1117" height="186" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720649" />
+    <state width="1117" height="186" key="GridCell.Tab.0.left" timestamp="1603990720648">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1681" height="187" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603379204959" />
-    <state width="1681" height="187" key="GridCell.Tab.0.right" timestamp="1603379204959">
+    <state width="1117" height="186" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720648" />
+    <state width="1117" height="186" key="GridCell.Tab.0.right" timestamp="1603990720649">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1681" height="187" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603379204959" />
+    <state width="1117" height="186" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720649" />
     <state x="951" y="326" key="IDE.errors.dialog" timestamp="1603378748691">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="951" y="326" key="IDE.errors.dialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603378748691" />
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2" timestamp="1603359812232">
+    <state x="325" y="333" width="540" height="524" key="StructurePopup" timestamp="1603985887083">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1603359812232" />
-    <state x="342" y="200" key="new project wizard" timestamp="1603372579691">
+    <state x="325" y="333" width="540" height="524" key="StructurePopup/0.0.1920.1160@0.0.1920.1160" timestamp="1603985887083" />
+    <state x="552" y="300" key="Vcs.Push.Dialog.v2" timestamp="1603379349940">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="342" y="200" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1603372579691" />
+    <state x="552" y="300" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1603379349940" />
+    <state x="776" y="358" key="chooseDestDirectoryDialog" timestamp="1603985680654">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="776" y="358" key="chooseDestDirectoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603985680654" />
+    <state x="92" y="92" width="1736" height="976" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603985323356">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603985323356" />
+    <state x="342" y="200" key="new project wizard" timestamp="1603985605678">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="342" y="200" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1603985605678" />
+    <state x="305" y="345" key="refactoring.ChangeSignatureDialog" timestamp="1603986495309">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="305" y="345" key="refactoring.ChangeSignatureDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603986495309" />
     <state x="1096" y="276" key="run.anything.popup" timestamp="1603372849875">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1096" y="276" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1603372849875" />
+    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1603990039089">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1603990039089" />
   </component>
 </project>
