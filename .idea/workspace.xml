@@ -20,17 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12f2286d-23a8-4d92-9931-1dc998ea90a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab06/src/pl/edu/uwm/PO/lab06/TestPracownikVer0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/Lab07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Adres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/BetterRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Nauczyciel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestBetterRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestOsoby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestAdres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Adres.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.TestBetterRectangle">
+  <component name="RunManager" selected="Application.TestAdres">
+    <configuration name="TestAdres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.imiajd.bochomulski.TestAdres" />
+      <module name="Lab07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.imiajd.bochomulski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBetterRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.imiajd.bochomulski.TestBetterRectangle" />
       <module name="Lab07" />
@@ -122,19 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_RachunekBankowy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.PO.lab06.Test_RachunekBankowy" />
-      <module name="Lab06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.edu.uwm.PO.lab06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zadania" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.PO.lab05.Zadania" />
       <module name="Lab05" />
@@ -150,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAdres" />
         <item itemvalue="Application.TestBetterRectangle" />
         <item itemvalue="Application.TestOsoby" />
         <item itemvalue="Application.TestPracownikVer0" />
         <item itemvalue="Application.Test_IntegerSet" />
-        <item itemvalue="Application.Test_RachunekBankowy" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603379336498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab07">
+      <created>1603990860016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603990860016</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +199,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project Rebuild" />
     <MESSAGE value="Lab06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab06" />
+    <MESSAGE value="Lab07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab07" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="154" key="#Project_Structure" timestamp="1603985614553">
@@ -231,22 +231,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="82" y="43" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603360023145" />
-    <state width="1117" height="186" key="GridCell.Tab.0.bottom" timestamp="1603990720649">
+    <state width="1877" height="187" key="GridCell.Tab.0.bottom" timestamp="1604520717513">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1117" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720649" />
-    <state width="1117" height="186" key="GridCell.Tab.0.center" timestamp="1603990720649">
+    <state width="1877" height="187" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1604520717513" />
+    <state width="1877" height="187" key="GridCell.Tab.0.center" timestamp="1604520717513">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1117" height="186" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720649" />
-    <state width="1117" height="186" key="GridCell.Tab.0.left" timestamp="1603990720648">
+    <state width="1877" height="187" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1604520717513" />
+    <state width="1877" height="187" key="GridCell.Tab.0.left" timestamp="1604520717513">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1117" height="186" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720648" />
-    <state width="1117" height="186" key="GridCell.Tab.0.right" timestamp="1603990720649">
+    <state width="1877" height="187" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1604520717513" />
+    <state width="1877" height="187" key="GridCell.Tab.0.right" timestamp="1604520717513">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1117" height="186" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603990720649" />
+    <state width="1877" height="187" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1604520717513" />
     <state x="951" y="326" key="IDE.errors.dialog" timestamp="1603378748691">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -255,10 +255,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="325" y="333" width="540" height="524" key="StructurePopup/0.0.1920.1160@0.0.1920.1160" timestamp="1603985887083" />
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2" timestamp="1603379349940">
+    <state x="552" y="300" key="Vcs.Push.Dialog.v2" timestamp="1603990865894">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1603379349940" />
+    <state x="552" y="300" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1603990865894" />
     <state x="776" y="358" key="chooseDestDirectoryDialog" timestamp="1603985680654">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

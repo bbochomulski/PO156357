@@ -37,16 +37,8 @@ public class Adres {
 
     public boolean przed(String kod){
         // funkcja zwraca true jeśli adres podany w zmiennej jest "po" adresie obiektu
-        char[] adres = this.kod_pocztowy.toCharArray();
-        char[] adres2 = kod.toCharArray();
-        for(int i = 0;i<adres.length;i++)
-        {
-            if(Character.isDigit(adres[i])){
-                if(adres2[i]<adres[i]) return false;
-            }
-        }
-        return true;
+        int adres = Integer.parseInt(this.kod_pocztowy.replaceAll("[^0-9.]", ""));
+        int adres2 = Integer.parseInt(kod.replaceAll("[^0-9.]", ""));
+        return adres > adres2;
     }
-
-
 }
