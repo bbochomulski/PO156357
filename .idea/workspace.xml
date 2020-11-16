@@ -20,16 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12f2286d-23a8-4d92-9931-1dc998ea90a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab08/Lab08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Flet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Fortepian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Pracownik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Skrzypce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/TestInstrumenty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/TestOsoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_1/Kolos_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_1/src/pl/edu/uwm/obiektowe/s156357/kolo1/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_1/src/pl/edu/uwm/obiektowe/s156357/kolo1/Pracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_1/src/pl/edu/uwm/obiektowe/s156357/kolo1/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/Lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/src/pl/imiajd/Bochomulski/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/src/pl/imiajd/Bochomulski/TestOsoba.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -64,7 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Lab08/src/pl" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Lab10/src/pl/imiajd/Bochomulski" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -75,10 +72,23 @@
       <recent name="pl.imiajd.Bochomulski" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestInstrumenty">
-    <configuration name="TestInstrumenty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.imiajd.Bochomulski.TestInstrumenty" />
-      <module name="Lab08" />
+  <component name="RunManager" selected="Application.TestClass">
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.obiektowe.s156357.kolo1.TestClass" />
+      <module name="Kolos_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.uwm.obiektowe.s156357.kolo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOsoba (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.imiajd.Bochomulski.TestOsoba" />
+      <module name="Lab10" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.imiajd.Bochomulski.*" />
@@ -90,50 +100,11 @@
       </method>
     </configuration>
     <configuration name="TestOsoba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.imiajd.Bochomulski.TestOsoba" />
-      <module name="Lab08" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.obiektowe.s156357.kolo1.TestOsoba" />
+      <module name="Kolos_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.imiajd.Bochomulski.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestOsoby" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="pl.imiajd.bochomulski.TestOsoby" />
-      <module name="Lab07" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.imiajd.bochomulski.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPracownikVer0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.PO.lab06.TestPracownikVer0" />
-      <module name="Lab06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.edu.uwm.PO.lab06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test_IntegerSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.PO.lab06.Test_IntegerSet" />
-      <module name="Lab06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.edu.uwm.PO.lab06.*" />
+          <option name="PATTERN" value="pl.edu.uwm.obiektowe.s156357.kolo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,13 +125,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadanie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Po_Kol_BartoszBochomulski.zadanie_1" />
+      <module name="Kolos_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Po_Kol_BartoszBochomulski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Po_Kol_BartoszBochomulski.zadanie_2" />
+      <module name="Kolos_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Po_Kol_BartoszBochomulski.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestInstrumenty" />
+        <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.TestOsoba" />
-        <item itemvalue="Application.Test_IntegerSet" />
-        <item itemvalue="Application.TestPracownikVer0" />
-        <item itemvalue="Application.TestOsoby" />
+        <item itemvalue="Application.zadanie_2" />
+        <item itemvalue="Application.zadanie_1" />
+        <item itemvalue="Application.TestOsoba (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604521065532</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab08">
+      <created>1605051518991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605051518991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,21 +226,23 @@
     <MESSAGE value="Lab06" />
     <MESSAGE value="Lab07" />
     <MESSAGE value="Added TestAdres.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added TestAdres.java" />
+    <MESSAGE value="Lab08" />
+    <MESSAGE value="Kolokwium_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kolokwium_1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="154" key="#Project_Structure" timestamp="1605045042237">
+    <state x="440" y="154" key="#Project_Structure" timestamp="1605448849006">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="440" y="154" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1605045042237" />
+    <state x="440" y="154" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1605448849006" />
     <state x="414" y="235" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603359219359">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="414" y="235" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603359219359" />
-    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1605049286215">
+    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1605538066237">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1605049286215" />
+    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1605538066237" />
     <state x="689" y="382" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603359129434">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -257,22 +263,38 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="82" y="43" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603360023145" />
-    <state width="1215" height="185" key="GridCell.Tab.0.bottom" timestamp="1605051029316">
+    <state width="1784" height="195" key="GridCell.Tab.0.bottom" timestamp="1605540881480">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1215" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605051029316" />
-    <state width="1215" height="185" key="GridCell.Tab.0.center" timestamp="1605051029316">
+    <state width="1784" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
+    <state width="1784" height="195" key="GridCell.Tab.0.center" timestamp="1605540881480">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1215" height="185" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605051029316" />
-    <state width="1215" height="185" key="GridCell.Tab.0.left" timestamp="1605051029316">
+    <state width="1784" height="195" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
+    <state width="1784" height="195" key="GridCell.Tab.0.left" timestamp="1605540881480">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1215" height="185" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605051029316" />
-    <state width="1215" height="185" key="GridCell.Tab.0.right" timestamp="1605051029316">
+    <state width="1784" height="195" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
+    <state width="1784" height="195" key="GridCell.Tab.0.right" timestamp="1605540881480">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1215" height="185" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605051029316" />
+    <state width="1784" height="195" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1605111292476">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1605111292476">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1605111292476">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1605111292476">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
     <state x="951" y="326" key="IDE.errors.dialog" timestamp="1603378748691">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -281,22 +303,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="325" y="333" width="540" height="524" key="StructurePopup/0.0.1920.1160@0.0.1920.1160" timestamp="1603985887083" />
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2" timestamp="1604521068850">
+    <state x="552" y="300" key="Vcs.Push.Dialog.v2" timestamp="1605051526858">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1604521068850" />
-    <state x="776" y="358" key="chooseDestDirectoryDialog" timestamp="1605045230328">
+    <state x="552" y="300" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605051526858" />
+    <state x="776" y="358" key="chooseDestDirectoryDialog" timestamp="1605449092471">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="776" y="358" key="chooseDestDirectoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1605045230328" />
+    <state x="776" y="358" key="chooseDestDirectoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1605449092471" />
     <state x="92" y="92" width="1736" height="976" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603985323356">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="92" y="92" width="1736" height="976" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603985323356" />
-    <state x="342" y="200" key="new project wizard" timestamp="1605045025817">
+    <state x="342" y="200" key="new project wizard" timestamp="1605535490137">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="342" y="200" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1605045025817" />
+    <state x="342" y="200" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1605535490137" />
     <state x="305" y="345" key="refactoring.ChangeSignatureDialog" timestamp="1603986495309">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -305,9 +327,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1096" y="276" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1603372849875" />
-    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1603990039089">
+    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1605454939031">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1603990039089" />
+    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1605454939031" />
   </component>
 </project>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kolos_1/Kolos_1.iml" filepath="$PROJECT_DIR$/Kolos_1/Kolos_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab00/Lab00.iml" filepath="$PROJECT_DIR$/Lab00/Lab00.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab01/Lab01.iml" filepath="$PROJECT_DIR$/Lab01/Lab01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab02/Lab02.iml" filepath="$PROJECT_DIR$/Lab02/Lab02.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lab06/Lab06.iml" filepath="$PROJECT_DIR$/Lab06/Lab06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab07/Lab07.iml" filepath="$PROJECT_DIR$/Lab07/Lab07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab08/Lab08.iml" filepath="$PROJECT_DIR$/Lab08/Lab08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10/Lab10.iml" filepath="$PROJECT_DIR$/Lab10/Lab10.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PO156357.iml" filepath="$PROJECT_DIR$/.idea/PO156357.iml" />
     </modules>
   </component>
