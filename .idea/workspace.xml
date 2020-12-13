@@ -16,22 +16,66 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12f2286d-23a8-4d92-9931-1dc998ea90a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab10_2/Lab10_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab10_2/src/pl/imiajd/Bochomulski/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab10_2/src/pl/imiajd/Bochomulski/TestOsoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/Kolos_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/src/pl/edu/uwm/obiektowe/s156357/kolo2/IMozeCofac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/src/pl/edu/uwm/obiektowe/s156357/kolo2/Liczba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/src/pl/edu/uwm/obiektowe/s156357/kolo2/LiczbaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/src/pl/edu/uwm/obiektowe/s156357/kolo2/Osobowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/src/pl/edu/uwm/obiektowe/s156357/kolo2/Pojazd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/src/pl/edu/uwm/obiektowe/s156357/kolo2/PojazdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kolos_2/src/pl/edu/uwm/obiektowe/s156357/kolo2/Zbior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/src/pl/Bartoszjd/Bochomulski/TestOsoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/src/pl/Bartoszjd/Bochomulski/TestPlik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/src/pl/Bartoszjd/Bochomulski/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/src/pl/Bartoszjd/Bochomulski/plik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/Lab11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/pl/edu/uwm/po/lab11/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/pl/edu/uwm/po/lab11/ArrayUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/pl/edu/uwm/po/lab11/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/pl/edu/uwm/po/lab11/PairDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/pl/edu/uwm/po/lab11/PairUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab12/Lab12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab12/src/pl/edu/uwm/po/lab12/collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/WordsInHash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/Statystyka.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/WordsInHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/WordsInTreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/alice30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/harry.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/lorem10000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/lorem2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/loremshort.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/statystyka.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordsInHash/src/wordrand.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/Adres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/BetterRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/BetterRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Nauczyciel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/Nauczyciel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestAdres.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/TestAdres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestBetterRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/TestBetterRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab07/src/pl/imiajd/bochomulski/TestOsoby.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab07/src/pl/bartoszjd/bochomulski/TestOsoby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Flet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/Flet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Fortepian.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/Fortepian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Pracownik.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/Pracownik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Skrzypce.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/Skrzypce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/TestInstrumenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/TestInstrumenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab08/src/pl/imiajd/Bochomulski/TestOsoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab08/src/pl/Bartoszjd/Bochomulski/TestOsoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/pl/imiajd/Bochomulski/Osoba.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/pl/Bartoszjd/Bochomulski/Osoba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/pl/imiajd/Bochomulski/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/pl/Bartoszjd/Bochomulski/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/pl/imiajd/Bochomulski/TestOsoba.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +85,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,24 +109,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/Lab10_2/src/pl/imiajd/Bochomulski" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Lab12/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ IDEA Projects\PO156357\Lab10\src\pl\bartoszjd\bochomulski" />
+      <recent name="E:\IntelliJ IDEA Projects\PO156357\Lab10" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pl.imiajd.Bochomulski" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestOsoba (1)">
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.obiektowe.s156357.kolo1.TestClass" />
-      <module name="Kolos_1" />
+  <component name="RunManager" selected="Application.LiczbaTest">
+    <configuration name="ArrayUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.po.lab11.ArrayUtilTest" />
+      <module name="Lab11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.edu.uwm.obiektowe.s156357.kolo1.*" />
+          <option name="PATTERN" value="pl.edu.uwm.po.lab11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOsoba (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.imiajd.Bochomulski.TestOsoba" />
-      <module name="Lab10" />
+    <configuration name="LiczbaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.obiektowe.s156357.kolo2.LiczbaTest" />
+      <module name="Kolos_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.imiajd.Bochomulski.*" />
+          <option name="PATTERN" value="pl.edu.uwm.obiektowe.s156357.kolo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +151,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOsoba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.obiektowe.s156357.kolo1.TestOsoba" />
-      <module name="Kolos_1" />
+    <configuration name="PairDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.po.lab11.PairDemo" />
+      <module name="Lab11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.edu.uwm.obiektowe.s156357.kolo1.*" />
+          <option name="PATTERN" value="pl.edu.uwm.po.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PojazdTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.obiektowe.s156357.kolo2.PojazdTest" />
+      <module name="Kolos_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.uwm.obiektowe.s156357.kolo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,25 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Po_Kol_BartoszBochomulski.zadanie_1" />
-      <module name="Kolos_1" />
+    <configuration name="collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.uwm.po.lab12.collections" />
+      <module name="Lab12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Po_Kol_BartoszBochomulski.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zadanie_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Po_Kol_BartoszBochomulski.zadanie_2" />
-      <module name="Kolos_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Po_Kol_BartoszBochomulski.*" />
+          <option name="PATTERN" value="pl.edu.uwm.po.lab12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestOsoba (1)" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.TestOsoba" />
-        <item itemvalue="Application.zadanie_2" />
-        <item itemvalue="Application.zadanie_1" />
+        <item itemvalue="Application.LiczbaTest" />
+        <item itemvalue="Application.PojazdTest" />
+        <item itemvalue="Application.collections" />
+        <item itemvalue="Application.ArrayUtilTest" />
+        <item itemvalue="Application.PairDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -216,19 +265,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -245,116 +282,9 @@
     <MESSAGE value="Kolokwium_1" />
     <option name="LAST_COMMIT_MESSAGE" value="Kolokwium_1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="435" y="188" key="#Notifications" timestamp="1605948983234">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="435" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1605948983234" />
-    <state x="440" y="154" key="#Project_Structure" timestamp="1605448849006">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="440" y="154" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1605448849006" />
-    <state x="414" y="235" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603359219359">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="414" y="235" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603359219359" />
-    <state x="886" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1605917779747">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="886" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605917779747" />
-    <state x="1245" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1605538066237" />
-    <state x="689" y="382" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603359129434">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="689" y="382" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603359129434" />
-    <state x="736" y="316" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603981823677">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="736" y="316" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603981823677" />
-    <state x="483" y="449" width="500" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605048646239">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="483" y="449" width="500" height="270" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1160@0.0.1920.1160" timestamp="1605048646239" />
-    <state x="1007" y="422" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603376691188">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="1007" y="422" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1160@0.0.1920.1160" timestamp="1603376691188" />
-    <state x="82" y="43" width="1736" height="976" key="DiffContextDialog" timestamp="1603360023145">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="82" y="43" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603360023145" />
-    <state width="1306" height="104" key="GridCell.Tab.0.bottom" timestamp="1605918301001">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605918301001" />
-    <state width="1784" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
-    <state width="1306" height="104" key="GridCell.Tab.0.center" timestamp="1605918301001">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605918301001" />
-    <state width="1784" height="195" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
-    <state width="1306" height="104" key="GridCell.Tab.0.left" timestamp="1605918301001">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605918301001" />
-    <state width="1784" height="195" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
-    <state width="1306" height="104" key="GridCell.Tab.0.right" timestamp="1605918301001">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605918301001" />
-    <state width="1784" height="195" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605540881480" />
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1605111292476">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
-    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1605111292476">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
-    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1605111292476">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
-    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1605111292476">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1605111292476" />
-    <state x="951" y="326" key="IDE.errors.dialog" timestamp="1603378748691">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="951" y="326" key="IDE.errors.dialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603378748691" />
-    <state x="325" y="333" width="540" height="524" key="StructurePopup" timestamp="1603985887083">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="325" y="333" width="540" height="524" key="StructurePopup/0.0.1920.1160@0.0.1920.1160" timestamp="1603985887083" />
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2" timestamp="1605051526858">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="552" y="300" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1605051526858" />
-    <state x="776" y="358" key="chooseDestDirectoryDialog" timestamp="1605449092471">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="776" y="358" key="chooseDestDirectoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1605449092471" />
-    <state x="92" y="92" width="1736" height="976" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603985323356">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="92" y="92" width="1736" height="976" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603985323356" />
-    <state x="131" y="0" key="new project wizard" timestamp="1605906012689">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1605906012689" />
-    <state x="342" y="200" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1605535490137" />
-    <state x="305" y="345" key="refactoring.ChangeSignatureDialog" timestamp="1603986495309">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="305" y="345" key="refactoring.ChangeSignatureDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603986495309" />
-    <state x="1096" y="276" key="run.anything.popup" timestamp="1603372849875">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="1096" y="276" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1603372849875" />
-    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1605454939031">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="267" y="269" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1605454939031" />
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PO156357$collections.ic" NAME="collections Coverage Results" MODIFIED="1607304537965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.edu.uwm.po.lab12.*</FILTER>
+    </SUITE>
   </component>
 </project>
